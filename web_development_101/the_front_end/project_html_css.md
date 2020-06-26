@@ -95,7 +95,6 @@ Submit a pull request with a link to your solution in this [file](https://github
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this list
-* [VictoriaVictorious's Solution (Easy)](https://github.com/VictoriaVictorious/google-homepage) - [View in Browser](https://victoriavictorious.github.io/google-homepage/)
 * [WillOTB's Solution (Easy)](https://github.com/WCampbell94/google-homepage) - [View in Browser](https://wcampbell94.github.io/google-homepage/)
 * [Mehcoder42's Solution (Easy)](https://github.com/mehcoder42/google_homepage) - [View in Browser](https://mehcoder42.github.io/google_homepage/)
 * [Maria's Solution (Easy)](https://github.com/mmuzas/google-homepage) - [View in Browser](https://mmuzas.github.io/google-homepage/)
@@ -3902,6 +3901,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [sielock's Solution (Easy)](https://github.com/sielock/google-homepage) - [View in Browser](https://sielock.github.io/google-homepage)
 * [jrdwilson's Solution (Easy)](https://github.com/jrdwilson/google-homepage) - [View in Browser](https://jrdwilson.github.io/google-homepage/)
 * [Alexa's Solution (Easy)](https://github.com/alexasarkuni/google-homepage) - [View in Browser](https://alexasarkuni.github.io/google-homepage/)
+* [Kwasi's Solution (Easy)](https://github.com/GitGroceries/google-homepage) - [View in Browser](https://gitgroceries.github.io/google-homepage/)
 </details>
 
 ### Additional Resources
